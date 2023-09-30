@@ -1,0 +1,13 @@
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_author_id\bin\Debug\WindowsFormsApp_author_id.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_author_id\bin\Debug\WindowsFormsApp_author_id.exe
+C:\Alla\C#_proj\WindowsFormsApp_author_id\bin\Debug\WindowsFormsApp_author_id.pdb
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.exe
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.pdb
+C:\Alla\C#_proj\WindowsFormsApp_author_id\bin\Debug\MaterialSkin.dll
+C:\Alla\C#_proj\WindowsFormsApp_author_id\obj\Debug\WindowsFormsApp_author_id.csproj.CopyComplete
